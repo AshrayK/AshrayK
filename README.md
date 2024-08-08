@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashray Khosin</h1>
 - 🔭 I’m currently working on **Football Stats with ML**
 
-- 🌱 I’m currently learning **Django/React**
+- 🌱 I’m currently learning **Django/React/FastAPI**
 
 - 👯 I’m looking to collaborate on **Any AI/ML application**
 
